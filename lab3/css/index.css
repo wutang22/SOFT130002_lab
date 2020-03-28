@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(246, 246, 246);
+}
+
+nav{
+    margin: -10px;
+    background-color: white;
+    height: 60px;
+    box-shadow: darkgrey 1px 1px 2px 1px;
+}
+
+li{
+    padding-right: 30px;
+    display: block;
+    text-align: left;
+    float: left;
+}
+
+nav img{
+    margin-left: 10%;
+    margin-top: 0;
+    float: left;
+    height: 75px;
+    width: 75px;
+    object-fit: contain;
+}
+
+nav .navigation{
+    margin-top: 25px;
+    margin-left: 25px;
+    float: left;
+    list-style-type: none;
+}
+
+nav span{
+    margin-top: 25px;
+    float: right;
+    width: 10%;
+}
+
+aside{
+    margin-top: 30px;
+    margin-right: 60px;
+    float: right;
+    background-color: white;
+    padding: 15px;
+    width: 10%;
+    box-shadow: darkgrey 1px 1px 3px 1px;
+}
+
+
+aside li{
+    width: 100%;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.main{
+    margin-top: 30px;
+    margin-left: 150px;
+    margin-bottom: 30px;
+    background-color: white;
+    padding: 15px;
+    float: left;
+    width: 70%;
+    text-align: left;
+    box-shadow: darkgrey 1px 1px 3px 1px;
+}
+
+article{
+    padding: 10px;
+}
+
+pre{
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    padding: 10px;
+}
+
+.prefooter{
+    padding: 10px;
+}
+
+small{
+    color: rgb(152,162,179);
+    font-size: small;
+}
+
+.finalfooter{
+    text-align: center;
+}
