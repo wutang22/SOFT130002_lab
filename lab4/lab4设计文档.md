@@ -10,4 +10,5 @@
 
 主页如下：
 
-![Image text](./images/md_needed/home.png)
+![image text](https://github.com/wutang22/SOFT130002_lab/blob/master/lab4/images/md_needed/home.png)
+
