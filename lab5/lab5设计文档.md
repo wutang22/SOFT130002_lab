@@ -29,10 +29,10 @@
 
 #### 完成效果截图：
 
-![image](https://github.com/wutang22/SOFT130002_lab/blob/master/lab5/img/lab5_img.png)
+![image](http://m.qpic.cn/psc?/V11g9oQL1QTOSS/ETWql2gUF22pNmiMBc.OAbrsWAz448y6dIUOxAoXJuU2xKdB9gylrlVmZg783KCmC53zrjGLrx.*m0Js4v.ja.52dGQ.IMiybF23JMpCFuY!/b&bo=wAY4BAAAAAADN.g!&rf=viewer_4)
 
 
 
 #### github提交截图：
 
-![image](https://github.com/wutang22/SOFT130002_lab/blob/master/lab5/img/github.png)
+![image](http://m.qpic.cn/psc?/V11g9oQL1QTOSS/NsnpM1uFKDYfpy9CWgdxx5DifKqormv52qsyg1qsEZtJh19mkrCRJbMAKrpoTNSuNnbdEzn.JLEuRxAVr2LUnA!!/b&bo=wAY4BAAAAAADB9g!&rf=viewer_4)
