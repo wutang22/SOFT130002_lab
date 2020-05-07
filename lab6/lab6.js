@@ -43,7 +43,7 @@ function testTime(){
 */
 function testMail(telephone,mail) {
     let phoneRe = /\d{11}/;
-    let mailRe = /^[a-zA-Z0-9_-]+@[a-zA-Z0-9]+(.com|.cn)+$/ ;
+    let mailRe = /[a-zA-Z0-9_-]+@[a-zA-Z0-9]+(\.[a-zA-Z0-9]+)+$/ ;
     let result = "";
     if(phoneRe.test(telephone)){
         result+="The telephone is right";
@@ -237,6 +237,8 @@ function test() {
     testMail("1234567891","12-@123.com");
     testMail("12345678910","hahah@gmail.cn");
     testMail("12345678910","hahah@gmail.con");
+    testMail("12345678910","hahah@fudan.edu.cn");
+    testMail("12345678910","hahah@fudan");
 
     testRedundancy("Is is the iS is cost of of gasoline going up up");
     testRedundancy("Is is a a b e b 2 c c d d e e g g f f h h i i ab ab aa aa cd cd ccd ccd xyZ xyz pyu puy");//超过十个
